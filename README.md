@@ -1,5 +1,3 @@
 - First year computer science student 
-- Mostly only know python and java
-- Currently trying to learn some web stuff
+- Currently learning C and machine learning 
 - Focused on Data science and Cybersecurity for the long term
-- https://github.com/Mokoto-K/Projects-todo
