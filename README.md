@@ -1,3 +1,3 @@
-- First year computer science student 
-- Currently learning C and machine learning 
-- Focused on Data science and Cybersecurity for the long term
+- Second year computer science student 
+- Currently focused on C and Machine learning
+- Long term focus, Data science and Cybersecurity
