@@ -1,3 +1,2 @@
-- Second year computer science student 
-- Currently focused on C and Machine learning
-- Long term focus, Data science and Cybersecurity
+- Computer Science student
+- Focused long term on Cyber security, Data science and Software development.
