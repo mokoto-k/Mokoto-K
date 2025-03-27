@@ -1,2 +1,1 @@
-- Computer Science student
-- Focused long term on Cyber security, Data science and Software development.
+
